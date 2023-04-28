@@ -10,5 +10,8 @@
 ![image](https://user-images.githubusercontent.com/102457813/234506848-8ca8dbf5-09cd-44f1-82bb-f1988443ef8f.png)
 ![image](https://user-images.githubusercontent.com/102457813/234507018-7292072f-a44f-4f1b-849e-997d50fda9c1.png)
 
+# Employee analysis Dashboard PWC
+![image](https://user-images.githubusercontent.com/102457813/235150505-cb00dac5-00d1-48b8-89cf-b077c44c7b41.png)
+![image](https://user-images.githubusercontent.com/102457813/235150835-a570efc2-bd37-468a-ad52-46a35220879d.png)
 
 
